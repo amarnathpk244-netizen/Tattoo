@@ -1,0 +1,29 @@
+✔ gallery shows all six studies and filters each real category (4.618678ms)
+✔ saved-only view respects the active style and does not invent entries (0.412373ms)
+✔ favorites load drops duplicates, unknown IDs and non-string values (0.514858ms)
+✔ blocked or corrupt browser storage degrades gracefully (0.321646ms)
+✔ all six contact-sheet cells have distinct positions and invalid input is bounded (0.250338ms)
+✔ a complete enquiry validates all three steps (0.821601ms)
+✔ style selection is required and accepts the undecided option (0.420826ms)
+✔ overlong idea is rejected without silently truncating a customer request (0.28478ms)
+✔ placement and size must be an offered choice (0.294886ms)
+✔ past, impossible and malformed dates are rejected; flexible/today work (0.915132ms)
+✔ name is required and bounded (3.806921ms)
+✔ either a valid email or phone is sufficient; no contact is rejected (0.458062ms)
+✔ enquiry-preview acknowledgement is required (0.171028ms)
+✔ summary is complete, contact-aware and explicitly not a confirmed appointment (0.282286ms)
+✔ optional empty date and idea have meaningful enquiry text (0.533947ms)
+✔ no sharing destination is fabricated for an unconfigured client (0.588789ms)
+✔ configured sharing creates only encoded drafts without executing a send (0.230749ms)
+✔ unsafe or invalid destinations remain unavailable (0.643972ms)
+✔ local date uses calendar components rather than a UTC day shift (0.287664ms)
+✔ rendered form and footer keep prototype status and do not contain fictional contact details (1.418984ms)
+✔ a client can add a new style without changing enquiry validation code (0.079019ms)
+ℹ tests 21
+ℹ suites 0
+ℹ pass 21
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 236.000758

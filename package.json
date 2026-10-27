@@ -1,0 +1,1 @@
+{"name":"inkroom-tattoo-studio-prototype","private":true,"version":"1.0.0","description":"Portable client tattoo studio concept","scripts":{"build":"node build.mjs","test":"node --test tests/core.test.cjs"},"engines":{"node":">=20"}}

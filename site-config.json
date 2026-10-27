@@ -1,0 +1,34 @@
+{
+  "brand": {"name":"INKROOM","descriptor":"Independent tattoo atelier","email":"","phone":"","whatsapp":"","instagram":"","address":"","mapsUrl":""},
+  "demo": true,
+  "hero": {"eyebrow":"A canvas. A conversation. A piece of you.","line1":"YOUR STORY.","line2":"IN YOUR","line3":"SKIN.","description":"Considered design. Intentional ink. A space for the art you want to carry with you."},
+  "images": {"hero":"assets/studio-session.png","portfolio":"assets/portfolio-studies.png"},
+  "work": [
+    {"id":"wild-form","title":"Wild form","style":"Fine line","placement":"Inner forearm","description":"A quiet botanical study. Delicate fern fronds follow the natural line of the arm.","cell":0},
+    {"id":"night-wings","title":"Night wings","style":"Blackwork","placement":"Upper arm","description":"A symmetrical moth study with graphic contrast, fine textures and celestial details.","cell":1},
+    {"id":"true-north","title":"True north","style":"Ornamental","placement":"Forearm","description":"A celestial compass study built around balance, negative space and delicate linework.","cell":2},
+    {"id":"still-bloom","title":"Still bloom","style":"Realism","placement":"Upper arm","description":"A black-and-grey rose study exploring layered petals, light and soft tonal depth.","cell":3},
+    {"id":"in-motion","title":"In motion","style":"Abstract","placement":"Shoulder","description":"An abstract flow study designed to move with the curve of the shoulder.","cell":4},
+    {"id":"olive-and-serpent","title":"Olive & serpent","style":"Fine line","placement":"Forearm","description":"A serpent and olive-branch study combining considered detail with organic movement.","cell":5}
+  ],
+  "styles": [
+    {"name":"Fine line","detail":"Quiet lines. Intricate details. A lighter touch.","mark":"01"},
+    {"name":"Blackwork","detail":"Bold forms, confident contrast and graphic depth.","mark":"02"},
+    {"name":"Ornamental","detail":"Rhythm, symmetry and pieces that follow your form.","mark":"03"},
+    {"name":"Realism","detail":"Texture, shading and stories told in black and grey.","mark":"04"},
+    {"name":"Abstract","detail":"Movement, instinct and a language of your own.","mark":"05"},
+    {"name":"Custom / cover-up","detail":"Something personal, starting with a conversation.","mark":"06"}
+  ],
+  "artists": [
+    {"name":"The resident artist","specialty":"Fine line · Botanical · Custom design","bio":"A space for the resident artist’s story, creative approach and selected work. Meet the real artist here when the studio is introduced.","image":"hero","cell":null},
+    {"name":"The guest artist","specialty":"Blackwork · Ornamental","bio":"A space for guest collaborations and a different point of view. Artist details and guest dates will be announced by the studio.","image":"portfolio","cell":1}
+  ],
+  "faq": [
+    {"q":"How does a consultation work?","a":"Start with your idea, preferred style, placement and approximate size. The artist can then discuss the design, scope and a suitable appointment. An enquiry is not a confirmed booking."},
+    {"q":"Can I bring my own references?","a":"Yes. Bring the images, themes or personal details that inspire you. They can be a starting point for a design developed with the artist."},
+    {"q":"How much will my tattoo cost?","a":"A quote depends on the design, size, placement, detail and session time. The studio will confirm the price before an appointment is booked."},
+    {"q":"Can an existing tattoo be covered or reworked?","a":"The artist will need to assess the existing piece and your new idea before confirming whether a cover-up or rework is suitable."},
+    {"q":"What should I know before my first visit?","a":"Bring your design references and any questions. The studio will confirm its identification, age, preparation and appointment policies before your visit."},
+    {"q":"Where is the studio?","a":"The studio’s verified address, opening hours and directions will be added when the client’s details are available. This concept does not display a fictional location."}
+  ]
+}
